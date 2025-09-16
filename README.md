@@ -46,8 +46,8 @@ This workflow automates customer support and booking by:
 ---
 
 ### Screenshots
-- Workflow diagram
-- Example booking entry in Notion/Sheets
+![Booking Bot](screenshots/Restaurant-booking-support-Bot.png)
+![Knowledge Base](screenshots/Restaurant-booking-Knowledge-Base.png)
 
 ---
 
