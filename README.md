@@ -18,7 +18,7 @@ This workflow automates customer support and booking by:
 
 ---
 
-### ⚙️ Stack
+### Stack
 - **n8n** (automation workflow)
 - **OpenAI Chat Model** (intent classification, responses)
 - **WhatsApp/Telegram/Email** (customer input)
@@ -26,7 +26,7 @@ This workflow automates customer support and booking by:
 
 ---
 
-### 🚀 How to Run (Demo)
+### How to Run (Demo)
 1. Import `workflow.json` into n8n (sanitized, no credentials included).
 2. Configure credentials: Messaging app + OpenAI + Notion/Google Sheets.
 3. Send a customer query or booking request.
@@ -34,7 +34,7 @@ This workflow automates customer support and booking by:
 
 ---
 
-### 📂 Repo Structure
+### Repo Structure
 ```
 /  
 ├── README.md              # Documentation  
@@ -45,13 +45,13 @@ This workflow automates customer support and booking by:
 
 ---
 
-### 🖼️ Screenshots
+### Screenshots
 - Workflow diagram
 - Example booking entry in Notion/Sheets
 
 ---
 
-### 🔒 Notes on Credentials & Safety
+### Notes on Credentials & Safety
 - This repo **does not include** any credentials.
 - Configure API keys and tokens within n8n before running.
 - Replace placeholder IDs/links with your own.
